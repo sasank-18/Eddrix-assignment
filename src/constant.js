@@ -1,0 +1,1 @@
+export const FetchData = 'https://jsonplaceholder.typicode.com/users'
