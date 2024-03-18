@@ -28,7 +28,7 @@ const ShowTable = ({ col, data }) => {
   };
 
   useEffect(() => {
-    setFilterData;
+    setFilterData(data);
   }, [col]);
 
   return (
